@@ -23,7 +23,7 @@ const timeRotating = `{
       },
       "id": {
         "computed": true,
-        "description": "RFC3339 format of the offset timestamp, e.g. ` + "`" + `2020-02-12T06:36:13Z` + "`" + `.",
+        "description": "RFC3339 format of the timestamp, e.g. ` + "`" + `2020-02-12T06:36:13Z` + "`" + `.",
         "description_kind": "plain",
         "type": "string"
       },
